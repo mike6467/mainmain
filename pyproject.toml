@@ -1,0 +1,12 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "bip-utils>=2.9.3",
+    "mnemonic>=0.21",
+    "pynacl>=1.5.0",
+    "requests>=2.32.5",
+    "stellar-sdk>=13.0.0",
+]
